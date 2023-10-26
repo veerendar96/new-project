@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1><font color='green'>Welcome to Marolix Technologies - Best company for freshers <font></h1>
+<h2>Learn Here.. Lead Anywhere.. !! </h2>
+
+<a href="www.marolix.com">Click here to more about Marolix Technologies</a>
+
+
+</body>
+</html>
+
